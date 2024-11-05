@@ -14,7 +14,7 @@ nav{
   display: flex;
   align-items: center;
   justify-content: space-around;
-  background-color: lightblue;
+  background-color: lightcoral;
   padding: 9px;
 }
 nav input{
